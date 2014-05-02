@@ -1,0 +1,53 @@
+Pregunta1:
+
+Dominio: apple.com
+Índice: 2719708
+Arcos(outdegrees): 29431
+Tiempo de búsqueda de índice: 0 min. y 11.3 seg.
+Tiempo de búsqueda de arcos: 34 min. y 53.7 seg.
+Tiempo total de la búsqueda: 35 min. y 05.0 seg.
+
+
+Pregunta2:
+
+Dominio: wikipedia.com
+Índice: 41410181
+Arcos(indegrees): 6960
+Tiempo de búsqueda de índice: 5 min. y 15.2 seg.
+Tiempo de búsqueda de arcos:  58 min. y 25.2 seg.
+Tiempo total de la búsqueda: 63 min. y 40.4 seg.
+
+Pregunta3:
+
+Dominio: blogspot.com
+Numero de subdominios: 3588044
+Tiempo total de la búsqueda: 7 min. y 38.8 seg. 
+
+Pregunta4:
+
+a)Dominio: blogg.se
+Índice: 5313467
+Indegree: 10396
+Outdegree: 59650
+Tiempo de búsqueda de índice: 22.3 seg.
+Tiempo de búsqueda de arcos: 42 min. y 48.8 seg.
+Tiempo total de la búsqueda: 43 min. y 11.1 seg.
+
+
+b)Dominio: petervidani.com
+Índice: 29420596
+Indegree: 2155
+Outdegree: 204
+Tiempo de búsqueda de índice: 2 min. y 9.2 seg.
+Tiempo de búsqueda de arcos: 43 min. y 1.1 seg.
+Tiempo total de la búsqueda: 45 min. y 10.3 seg.
+
+
+c)Dominio: youtube.com
+Índice: 42467638
+Indegree:977364
+Outdegree: 0
+Tiempo de búsqueda de índice: 3 min. y 3.1 seg.
+Tiempo de búsqueda de arcos: 43 min. y 56.6 seg.
+Tiempo total de la búsqueda: 46 min. y 59.7 seg.
+
